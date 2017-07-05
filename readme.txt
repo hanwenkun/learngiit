@@ -1,2 +1,2 @@
-git is a version system one
-git is free software tow
+a git is a version system one
+a git is free software tow
