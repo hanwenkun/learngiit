@@ -6,4 +6,4 @@ my name is laoda
 your name is laoer
 
 
-thank you very mucm
+thank you very much
